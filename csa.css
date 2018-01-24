@@ -1,0 +1,46 @@
+img{
+    width:200px;
+    height:200px;
+    border-radius: 200px;
+    border:2px solid black;
+}
+.t{
+    color:darkblue;
+    text-align: center;
+}
+.q{
+    color:rgb(8, 81, 105);
+    align-content: center;
+
+}
+p{
+    color:black;
+
+}
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    align-self: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 20px;
+    background-color: cornflowerblue;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+  display: inline;
+  margin: 0px 50px 0px 50px;
+   
+}
+body{
+    background-color: darkgrey;
+}
